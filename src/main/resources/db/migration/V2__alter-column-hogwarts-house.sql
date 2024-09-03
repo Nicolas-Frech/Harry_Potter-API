@@ -1,0 +1,1 @@
+ALTER TABLE wizards RENAME COLUMN hogwartsHouse TO hogwarts_house;
